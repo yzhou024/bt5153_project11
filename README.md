@@ -59,6 +59,7 @@ Output file:
 
 Used Random Forest, LightGMB, XGBoost and Neural Network modelling to predict Standard Cost across each customer.
 Trained regression models on the train.csv dataset and tested against the test.csv dataset.
+Also analysising Feature Importance for Random Forest, LightGMB, XGBoost models. 
 
 
 Code file: 
@@ -73,7 +74,12 @@ Code file:
 
 **Stage 4: Final Model & Prediction**
 
-Regression-based random forest showed the best performance, with a mean absolute error of xx ..
+Regression-based random forest showed the best performance, with a mean absolute error of 1.35 and MAPE 14.40%.
+Final prediction has been used by Random Forest. 
+
+Code file: 
+
+	code11_RandomForest.ipynb
 
 
 
