@@ -23,7 +23,7 @@ Used pandas to collate over 65 individual unique values and combine the datasour
 
     Netflix subscription fee in different countries: netflix price in different countries.csv 
     Netflix subscription fee till Dec 2021: Netflix subscription fee Dec-2021.csv
-    IMDb rating and TV show episode data: title.basics.tsv.gz & title.episode.tsv.gz
+    IMDb rating and TV show episode data: Please go to https://datasets.imdbws.com/ and download title.basics.tsv.gz & title.episode.tsv.gz (due to size limiation, it cannot be updated in Githut repo)
     Country-level Metrics: dataset_country_level_others.csv
     Weekly top 10 watches in Netflix: all-weeks-countries.csv
 
